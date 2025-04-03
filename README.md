@@ -1,8 +1,3 @@
-Here’s a full `README.md` for your project, written clearly for users and contributors, and tailored for a Docker-based setup:
-
----
-
-```markdown
 # 🧠 AI-Powered API Monitoring and Anomaly Detection System
 
 An AI-driven platform to monitor, analyze, and predict anomalies in high-frequency API call environments, built for distributed infrastructures (on-premises, cloud, and multi-cloud). This system leverages log streaming, anomaly detection, real-time alerting, and dashboard visualization — all containerized with Docker.
@@ -144,8 +139,3 @@ Feel free to fork, improve, or report issues. Contributions are welcome!
 ## 📄 License
 
 This project is licensed under MIT License.
-```
-
----
-
-Let me know if you’d like me to generate the entire folder structure with placeholder files so you can start coding right away.
